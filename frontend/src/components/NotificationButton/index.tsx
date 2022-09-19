@@ -1,7 +1,12 @@
-/* function NotificatinButton() {
+import icon from '../../assets/img/notification-icon.svg'
+import './styles.css'
+
+function NotificationButton() {
     return (
-      <p>my tica</p>
+        <div className="dsmeta-red-btn">
+            <img src={icon} alt="Notificar" />
+        </div>
     )
-  }
-   
-  export default NotificatinButton */
+}
+
+export default NotificationButton

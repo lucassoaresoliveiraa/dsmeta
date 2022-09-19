@@ -1,13 +1,14 @@
-/* import NotificatinButton from "./components/NotificationButton"
+import NotificationButton from "./components/NotificationButton"
 
 function App() {
-  return (
+  return(
     <>
-      <h1>Ola mundo</h1>
-      <NotificatinButton />
+    <h1>hellou</h1>
+    <NotificationButton/>
+    <NotificationButton/>
+    <NotificationButton/>
     </>
   )
 }
 
 export default App
- */
